@@ -6,3 +6,4 @@ pandas
 pillow
 python-multipart
 pytest
+httpx
